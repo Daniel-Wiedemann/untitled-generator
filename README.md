@@ -3,6 +3,9 @@
 Eine einfache und stylische Webapplikation um Namen bzw. Wörter jeglicher Art zu erzeugen.
 Mit Hilfe von Plugins und Filtern kann die Worterzeugung beeinflusst werden.
 
-Warum noch ein Wortzufallsgenerator? In erster Linie um ein realles Projekt mit einer
-neuen Technologie umzusetzen. Und darüber hinaus soll untitled-generator viel stylischer sein
-und modular. 
+Features (geplant):
+- Wörter morphen
+- prefix und/oder suffix
+- min. / max. Länge
+- nur bestimmte Buchstaben
+- Vornamen
